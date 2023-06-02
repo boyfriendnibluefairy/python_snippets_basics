@@ -65,6 +65,6 @@ heat_index.tick_params(axis="both",
 plt.show()
 
 ## To save figures automatically, replace plt.show() with
-#plt.savefig("\~\Desktop\Annual_Ave_Heat_Index_UPLB_Campus.png",
+#plt.savefig("\~\Desktop\Annual_Ave_Heat_Index_Campus.png",
 #            bbox_inches="tight")
 
